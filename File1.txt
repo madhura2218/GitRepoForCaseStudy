@@ -2,3 +2,4 @@ Hi there! I am Madhura
 Change 1 - Adding another line
 Change 2 - Adding line for 3 way merge--3 way merge
 Change 3 - Adding extra line for remote merge
+Change 4 - Adding another line for rebase
